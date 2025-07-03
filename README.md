@@ -1,3 +1,4 @@
+
 <h1 align="center">Salut, moi c'est Marvin !</h1>
 
 <p align="center">
@@ -21,21 +22,18 @@
 
 ## 🧰 Outils & Techs
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="SDL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="OpenGL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian"/>
+<div align="Center">
+
+| En ligne | Compilés | OS | Outils |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,php"/> | <img src="https://skillicons.dev/icons?i=c,cpp,java"/> | <img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,arch"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github"/> |
+
 </div>
 
 ## 📈 Stats GitHub
+
+<br>
+<br>
 
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvinFm54&layout=compact&langs_count=8&card_width=320&theme=tokyonight&count_private=true" />
@@ -43,8 +41,13 @@
 
 ## 📫 Me contacter
 
-- 🌐 [marvinfm.fr](https://marvinfm.fr)
-- 📬 Mail : marvin.fm54@gmail.com
+<div align="Center">
+
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="mailto:marvin.fm54@gmail.com"> <img height=64 src="https://skillicons.dev/icons?i=gmail"/></a> ‎ <a href="https://marvinfm.fr"> <img height=64 src="https://public.marvinfm.fr/assets/icon.png"/></a> ‎ |
+
+</div>
 
 <p align="center">
   Merci de ta visite 👀 ! N'hésite pas à aller faire un tour sur mon site 😌
