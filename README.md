@@ -1,54 +1,31 @@
 
-<h1 align="center">Salut, moi c'est Marvin !</h1>
-
-<p align="center">
-  Développeur passionné - Créateur de projets web, de projets en C/C++ et d'outils personnalisés.<br>
-  Libertés, innovations et sens du détail.
-</p>
-
----
-
-## 🚀 À propos de moi
-
-- 🧑‍💻 **Développeur** full-stack (C, C++, PHP, HTML/CSS, JS, Java)
-- 🌐 Mes plus gros projets en ligne :
-  - [marvinfm.fr](https://marvinfm.fr) - Le repère de mes projets, avec plein de thèmes et disponible en plusieurs langues.
-  - [stage.marvinfm.fr](https://stage.marvinfm.fr) - Plateforme de mise en ligne de propositions de stages, pour faciliter la vie des étudiants.
-  - [cours.marvinfm.fr](https://cours.marvinfm.fr) - Plateforme de mise en ligne de cours (pour différents niveaux d'études).
-  - [cours.marvinfm.fr](https://sConv.marvinfm.fr) - Messagerie / Forums (canaux publics, privés et selectifs).
-- 🛠 Je créé mon propre **moteur de jeu** en C, C++, SDL2 et OpenGL. Ce moteur sera utilisé pour un jeu 3D très optimisé et permettant de créer des niveaux/maps très diversifiés.
-- 💡 Pour des niveau customs dans mon moteur, je développe mon **propre langage** similaire au C++ mais interprété, pour créer/configurer des objets, textures, interfaces & comportements.
-- 💻 J'ai également l'habitude d'utiliser/installer des **systèmes d'exploitations (OS)** différents : Windows 7/10/11, Debian 12/13, TempleOS, Ubuntu (et autres : Arch, EOS, Fedora, etc.).
-
-## 🧰 Outils & Techs
-
-<div align="Center">
-
-| En ligne | Compilés | OS | Outils |
-| ------------- | ------------- | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,php"/> | <img src="https://skillicons.dev/icons?i=c,cpp,java"/> | <img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,arch"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github"/> |
-
-</div>
-
-## 📈 Stats GitHub
-
-<br>
+# Bonjour, bienvenue sur mon profil GitHub !
+<img src="https://i.imgur.com/vOS3CJ9.png" alt="Bannière" width="100%">
 <br>
 
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvinFm54&layout=compact&langs_count=8&card_width=320&theme=tokyonight&count_private=true" />
-</p>
+## Mes compétences / Mes projets
 
-## 📫 Me contacter
+- Développement d'applications en C, C++ et Rust :
+  - MFmEngine (En cours de développement) - Moteur de jeu en 3 parties : MFmCore (Rust, C), Extentions (C++) et Jeux (N'importe quel langage). La coeur contient la boucle principale, le chargement des extensions, les shaders et la gestion des fenêtres et inputs (SDL3). Les Extensions comprennent principalement des mécaniques de gameplay et fonctionnalités. Les jeux comprennent principalement les assets, les niveaux et la configuration (dont les extensions nécéssaires au fonctionnement du jeu).
+  
+- Développement web backend PHP (Symfony) et frontend HTML/CSS/JS/TS :
+	- [marvinfm.fr](https://marvinfm.fr) - Site reccueil de projets ;
+	- [marvinfm.fr/services](https://marvinfm.fr/services) - Page de présentation de mes services (auto-entreprise), avec possibilité de faire une demande de devis ;
+  - [marvinfm.fr/course](https://marvinfm.fr/course) - Plateforme de mise en ligne de cours / tutoriels sur divers sujets, avec commentaires et notes.
+  - [marvinfm.fr/actu/](https://marvinfm.fr/actu/) - Site agrégateur de flux d'actualités, avec des articles dans différents domaines, la météo et les prix des carburants en France métropolitaine, les derniers cours mis en ligne et les dernières actualités du site ;
+  - [marvinfm.fr/forum](https://marvinfm.fr/forum) - Messagerie / Forums (canaux publics et privés), avec gestion des amis ;
+  - [marvinfm.fr/game](https://marvinfm.fr/game) - Bibliothèque de jeux en ligne, encore en développement ;
+	
+  - LOGESVIC (En cours de développement) - Logiciel de Gestion de Stocks, Vitrine et Clients : SaaS destiné à des artisans et entrepreneurs pour gérer leur stocks (aidé par de l'IA) et accroître leur présence en ligne ainsi que leurs relations clients. Ce projet utilises Docker.
+  - MFmTools (En cours de développement) - SaaS regroupant divers outils (propulsés à l'IA), notamment prise de notes et emploi du temps avancé, téléchargeur et convertisseur de vidéos / musiques, et créateur de formes, canva et palettes CSS.
+  
+- Gestion de distros Linux (Debian, Arch, Fedora et leurs dérivés) et quand je n'ai pas le choix, Windows 10 et 11. Je m'intéresse également à FreeBSD et ses distributions. Enfin j'apprécie particulierement TempleOS, le projet le plus impressionnant jamais créé par un seul développeur.
 
-<div align="Center">
+<br>
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:marvin.fm54@gmail.com"> <img height=64 src="https://skillicons.dev/icons?i=gmail"/></a> ‎ <a href="https://marvinfm.fr"> <img height=64 src="https://public.marvinfm.fr/assets/icon.png"/></a> ‎ |
+## Me contacter
+<img src="https://i.imgur.com/vOS3CJ9.png" alt="Bannière" width="100%"> 
 
-</div>
-
-<p align="center">
-  Merci de ta visite 👀 ! N'hésite pas à aller faire un tour sur mon site 😌
-</p>
+| Email principal | Email web | Page de contact |
+| :--- | :---: | ---: |
+| [marvin.fmandras@outlook.com](mailto:marvin.fmandras@outlook.com) | [contact@marvinfm.fr](mailto:contact@marvinfm.fr) | [marvinfm.fr/contact](https://marvinfm.fr/contact) |
