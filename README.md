@@ -1,6 +1,9 @@
 
 # Bonjour, bienvenue sur mon profil GitHub !
 <img src="https://i.imgur.com/vOS3CJ9.png" alt="Bannière" width="100%">
+
+*You want to see the English version ? Click here : [README_EN](README_EN.md)*
+
 <br>
 
 ## Mes compétences / Mes projets
